@@ -1,8 +1,3 @@
-</br>
-</br>
-</br>
-</br>
-
 <h1>Hey there I'm Mahdi</h1> 
 
 <h3>
@@ -39,8 +34,6 @@
 	</table>
 </div>
 
-</br>
-</br>
 </br>
 </br>
 
