@@ -4,6 +4,8 @@
       I am a web developer in Tehran. I enjoy coding open source projects that solve unique problems. I am a full stack developer and my favorite frameworks are vue.js and Laravel
 </h3>
 
+</br>
+
 <div align="center">
 	<table>
 		<tr>
@@ -27,6 +29,9 @@
 		</tr>
 	</table>
 </div>
+
+</br>
+</br>
 
 
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"></img>
