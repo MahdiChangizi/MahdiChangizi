@@ -1,3 +1,4 @@
+```bash
 ┌─[💀 SYSTEM INITIALIZED: mahdi@cyber-terminal]
 └──➤ ./decrypt_profile --advanced --elite-access
 
@@ -37,3 +38,4 @@
 
 ┌─[🕷️ SYSTEM MONITORING: CONTINUOUS SCAN ACTIVE]
 └──➤ _waiting_for_next_challenge();
+```
