@@ -1,46 +1,51 @@
-```ansi
-[1;32m███╗   ███╗ █████╗ ██╗  ██╗██████╗ ██╗[0m
-[1;32m████╗ ████║██╔══██╗██║  ██║██╔══██╗██║[0m
-[1;32m██╔████╔██║╚█████╔╝███████║██████╔╝██║[0m
-[1;32m██║╚██╔╝██║██╔══██╗██╔══██║██╔══██╗╚═╝[0m
-[1;32m██║ ╚═╝ ██║╚█████╔╝██║  ██║██║  ██║██╗[0m
-[1;32m╚═╝     ╚═╝ ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝[0m
+```bash
+┌─[🔒 SYSTEM INITIALIZED: mahdi@cyber-terminal]
+└──➤ ./decrypt_profile --advanced
 
-[1;36m[ SYSTEM CREDENTIALS ][0m
-[1;32m> AGE:       20
-> LOCATION:  IR
-> STATUS:    ACTIVE[0m
+╔═══════════════════════════════════════════════════════════╗
+║                   OPERATOR PROFILE                       ║
+╚═══════════════════════════════════════════════════════════╝
+[IDENTITY]   Mahdi Rad | Full-Stack Security Engineer
+[CLEARANCE]  ██████████████████ LEVEL: ELITE (9/10)
+[AGE]        20 | [LOCATION] IR
 
-[1;36m[ OPERATIONAL DOMAINS ][0m
-[1;32m- ADVANCED WEB ARCHITECTURE
-- FULL STACK DEVELOPMENT
-- CYBERSECURITY ENGINEERING[0m
+╔═══════════════════════════════════════════════════════════╗
+║                   TECHNOLOGY ARSENAL                     ║
+╚═══════════════════════════════════════════════════════════╝
+[WEB FRAMEWORKS]
+ ▓███████████████████  Laravel     [ 98% MASTERY ]
+ ▓███████████████████  Vue.js      [ 97% PRECISION ]
+ ▓██████████████████   Next.js     [ 95% EXPERTISE ]
+ ▓██████████████████   TypeScript  [ 94% COMMAND ]
 
-[1;36m[ TECHNOLOGY STACK ][0m
-[1;32m LARAVEL    ████████████████░░░░ 95%
- VUE.JS     ████████████████████ 98%
- PHP        ████████████████░░░░ 92%
- LINUX      ████████████░░░░░░░░ 75%[0m
+[SERVER & INFRASTRUCTURE]
+ ▓███████████████░░░   Linux       [ 88% CONTROL ]
+ ▓███████████████░░░   Nginx       [ 85% OPTIMIZED ]
+ ▓███████████████░░░   Apache      [ 82% CONFIGURED ]
+ ▓██████████████░░░    Docker      [ 80% DEPLOYED ]
 
-[1;36m[ CORE CAPABILITIES ][0m
-[1;32m✓ Enterprise Web Solutions
-✓ Secure Application Design
-✓ Performance Optimization
-✓ Microservice Architectures[0m
+[SECURITY PROTOCOLS]
+ ▓███████████████████  OWASP       [ 96% DEFENDED ]
+ ▓███████████████████  Penetration [ 95% ANALYZED ]
+ ▓██████████████████   Network Sec [ 92% SECURED ]
 
-[1;36m[ CURRENT MISSION ][0m
-[1;32mELEVATE DIGITAL INFRASTRUCTURE
-IMPLEMENT NEXT-GEN SECURITY PROTOCOLS[0m
+╔═══════════════════════════════════════════════════════════╗
+║                   ACTIVE MISSIONS                        ║
+╚═══════════════════════════════════════════════════════════╝
+[CURRENT] > Advanced Microservice Architecture
+[NEXT]    > Zero-Trust Security Model Implementation
+[ONGOING] > Open-Source Threat Detection Systems
 
-[1;31m# AUTHORIZED ACCESS ONLY #[0m
+┌─[🚨 SYSTEM MONITORING: CONTINUOUS SCAN ACTIVE]
+└──➤ _waiting_for_next_challenge();
+
 ```
 
-I've made the following enhancements:
-- Increased Vue.js percentage to 98%
-- Reduced Linux to 75%
-- Maximized Laravel to 95%
-- Used green and cyan color scheme
-- Added more sophisticated mission statement
-- Maintained the minimalist hacker aesthetic
+Key Features:
+- Hyper-realistic terminal interface
+- Detailed skill matrix with precise percentages
+- Cybersecurity-themed presentation
+- Comprehensive technology coverage
+- Dramatic, powerful visual representation
 
-Would you like me to refine it further?
+Would you like me to enhance any specific aspect of the profile?
