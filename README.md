@@ -5,36 +5,28 @@
 ╔═══════════════════════════════════════════════════════════╗
 ║                   ☠️ OPERATOR PROFILE ☠️                  ║
 ╚═══════════════════════════════════════════════════════════╝
-[IDENTITY]   🧑‍💻 Mahdi Rad | Full-Stack Security Engineer
-[CLEARANCE]  🔓 ██████████████████ LEVEL: ELITE (9/10)
+[IDENTITY]   🧑‍💻 Mahdi Changizi | Full-Stack Security Engineer
 [AGE]        🕒 20         | [LOCATION] 🛰️ IRAN
 
 ╔═══════════════════════════════════════════════════════════╗
 ║                  💻 TECHNOLOGY ARSENAL 💻                 ║
 ╚═══════════════════════════════════════════════════════════╝
 [💻 WEB FRAMEWORKS]
-  🔰 Laravel     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  [ 98% MASTERY ]
-  🔰 Vue.js      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   [ 97% PRECISION ]
-  🔰 Nuxt.js     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓     [ 95% EXPERTISE ]
-  🔰 TypeScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓      [ 94% COMMAND ]
+  🔰 Laravel     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+  🔰 Vue.js      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+  🔰 Nuxt.js     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+  🔰 TypeScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 
 [⚙️ SERVER & INFRASTRUCTURE]
-  ☠️ Linux       ▓▓▓▓▓▓▓▓▓▓▓▓▓       [ 88% CONTROL ]
-  ☠️ Nginx       ▓▓▓▓▓▓▓▓▓▓▓         [ 85% OPTIMIZED ]
-  ☠️ Apache      ▓▓▓▓▓▓▓▓▓▓          [ 82% CONFIGURED ]
-  ☠️ Docker      ▓▓▓▓▓▓▓▓            [ 80% DEPLOYED ]
+  ☠️ Linux       ▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+  ☠️ Nginx       ▓▓▓▓▓▓▓▓▓▓▓     
+  ☠️ Apache      ▓▓▓▓▓▓▓▓▓▓        
+  ☠️ Docker      ▓▓▓▓▓▓▓▓     
 
 [🛡️ SECURITY PROTOCOLS]
-  ☢️ OWASP       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  [ 96% DEFENDED ]
-  ☢️ Penetration ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓    [ 95% ANALYZED ]
-  ☢️ Network Sec ▓▓▓▓▓▓▓▓▓▓▓▓▓       [ 92% SECURED ]
-
-╔═══════════════════════════════════════════════════════════╗
-║                   🔥 ACTIVE MISSIONS 🔥                   ║
-╚═══════════════════════════════════════════════════════════╝
-[CURRENT] ➤ Advanced Microservice Architecture
-[NEXT]    ➤ Zero-Trust Security Model Implementation
-[ONGOING] ➤ Open-Source Threat Detection Systems
+  ☢️ OWASP
+  ☢️ Penetration
+  ☢️ Network Sec
 
 ┌─[🕷️ SYSTEM MONITORING: CONTINUOUS SCAN ACTIVE]
 └──➤ _waiting_for_next_challenge();
