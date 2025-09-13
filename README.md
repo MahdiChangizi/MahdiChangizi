@@ -6,7 +6,7 @@
 ║                   ☠️ OPERATOR PROFILE ☠️                  ║
 ╚═══════════════════════════════════════════════════════════╝
 [IDENTITY]   🧑‍💻 Mahdi Changizi | Full-Stack Security Engineer
-[AGE]        🕒 20         | [LOCATION] 🛰️ IRAN
+[AGE]        🕒 20         
 
 ╔═══════════════════════════════════════════════════════════╗
 ║                  💻 TECHNOLOGY ARSENAL 💻                 ║
